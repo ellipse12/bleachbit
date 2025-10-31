@@ -1,6 +1,6 @@
 build: off
 version: 5.0.2.{build}
-image: Visual Studio 2013
+image: Visual Studio 2019
 
 environment:
     PYTHON_HOME: 'c:\projects\bleachbit\vcpkg_installed\x86-windows\tools\python3'
